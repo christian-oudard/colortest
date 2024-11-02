@@ -1,2 +1,2 @@
-![Screenshot of script output](path/to/screenshot.png)
+![Screenshot of script output](screenshot.png)
 
